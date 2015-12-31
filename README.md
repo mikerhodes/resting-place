@@ -1,4 +1,6 @@
-# Resting-Place -- testing Java HTTP client ideas for CouchDB
+# Resting-Place
+
+**This repository is only online so I can share the ideas; it is _not_ a working CouchDB client!!**
 
 This repository contains a simple experiment in using delegates to receive
 the results of HTTP requests made to CouchDB. Right now only one call is
